@@ -1,0 +1,36 @@
+Case Study – UPI / Online Payment Fraud
+
+Type of Cybercrime: UPI-Based Fraud
+Prepared By: Ajeetesh Kumar 25BCE11023
+Course: CSE0001 – Digital Literacy
+Institute: VIT Bhopal University
+
+Understanding UPI Fraud
+
+UPI fraud is a common type of online scam that happens through digital payment apps like PhonePe, Google Pay, Paytm, and BHIM.
+In most cases, there is no actual hacking involved. Instead, the fraud depends on misleading the user into taking an action 
+themselves, such as entering their UPI PIN when they shouldn’t. Because the user unknowingly authorizes the transaction, the 
+fraud becomes very effective and hard to reverse.
+
+How the Scam Works (Step-by-Step)
+
+Example: Fake Payment Request Scam
+
+Rohit, a second-year student, lists his old laptop for sale on OLX. Soon, he gets a message from someone claiming to be 
+interested in buying it and offering to pay via Google Pay.
+The scammer sends a “request” on Google Pay. This request can easily be mistaken for receiving money, especially if the user
+is not familiar with how UPI works.
+The scammer then calls or messages Rohit, pretending to be from Google Pay support. He says there is a small verification step
+and asks Rohit to enter his UPI PIN.
+Assuming he is about to receive the payment, Rohit enters his PIN without realizing the risk.
+In reality, this action authorizes a payment. Within seconds, ₹18,000 is transferred from Rohit’s account to the scammer.
+After the transaction, the scammer blocks Rohit, making it impossible to contact him.
+Who is More Likely to Be Targeted?
+Students or individuals selling items online (OLX, Quikr, Facebook Marketplace)
+People who are new to UPI and unaware of how payment requests work
+Individuals who respond quickly under pressure, as scammers often create urgency
+Impact and Consequences
+
+The money lost in such scams is usually gone instantly, and recovering it is very difficult. Although banks may help if
+informed quickly, many people realize the fraud too late. Apart from financial loss, victims also face stress and regret, 
+as the scam is designed to look completely genuine.
