@@ -25,7 +25,7 @@ README.md                            ← You are here
  
 report/
 
-       project_report.pdf             ← Full written project report
+       project-report.pdf             ← Full written project report
        
 task-1-presentation/
 
