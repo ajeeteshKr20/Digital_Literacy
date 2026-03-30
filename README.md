@@ -29,22 +29,24 @@ report/
        
 task-1-presentation/
 
-       digital_literacy_infographic.html   ← Interactive infographic
-       description.md                      ← Tool used & reflection
+       Infographic.jepg               ← Interactive infographic
+       Description.md                 ← Tool used & reflection
 
 task-2-portfolio/
 
-       screenshots/                   ← Profile screenshots (add your own)
-       portfolio_reflection.md        ← Platform write-up
+       screenshots-of-profile-setup.pdf      ← Profile screenshots (add your own)
+       reflection-notes.md                   ← Platform write-up
   
 task-3-platforms/
 
-       coding_challenge_notes.md      ← HackerRank challenge notes
-       google_form_info.md            ← Google Form details & link
+       coding-notes.pdf                                ← HackerRank challenge notes and google form link
+       coding-practice                                 ← HackerRank challenging problem solved
+       platforms-screenshots-activity-practice.pdf     ← Google Form and HackerRank Activity Screenshots
 
 task-4-email-etiquette/
 
-       email_drafts.md                ← Two professional emails
+       Email-1.pdf                    ←  professional email - 1
+       Email-2.pdf                    ←  professional email - 2
        social-media-checklist.md      ← Do's and Don'ts checklist
       
 task-5-cybercrime/
