@@ -25,7 +25,7 @@ README.md                            ← You are here
  
 report/
 
-       project_report.docx            ← Full written project report
+       project_report.pdf             ← Full written project report
        
 task-1-presentation/
 
@@ -39,8 +39,8 @@ task-2-portfolio/
   
 task-3-platforms/
 
-       coding-notes.pdf                                ← HackerRank challenge notes and google form link
-       coding-practice                                 ← HackerRank challenging problem solved
+       coding-notes.md                                 ← HackerRank challenge notes and google form link
+       coding-practice.md                              ← HackerRank challenging problem solved
        platforms-screenshots-activity-practice.pdf     ← Google Form and HackerRank Activity Screenshots
 
 task-4-email-etiquette/
